@@ -6,7 +6,7 @@ module.exports = {
   entry: {
     bundle: [
       "react-hot-loader/patch",
-      './src/Counter',
+      './src/index',
       'webpack/hot/only-dev-server',
       'webpack-dev-server/client?http://localhost:3000'
     ],
