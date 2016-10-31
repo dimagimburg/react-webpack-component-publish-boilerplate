@@ -1,14 +1,14 @@
 {
-  "name": "react-hot-boilerplate",
+  "name": "react-component-publish-boilerplate",
   "version": "1.0.0",
-  "description": "Boilerplate for ReactJS project with hot code reloading",
+  "description": "Boilerplate for ReactJS components to be published to npm with easy and light development environment",
   "scripts": {
     "start": "node server.js",
     "lint": "eslint src"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaearon/react-hot-boilerplate.git"
+    "url": "https://github.com/dimagimburg/react-webpack-component-publish-boilerplate.git"
   },
   "keywords": [
     "react",
@@ -21,12 +21,8 @@
     "edit",
     "webpack"
   ],
-  "author": "Dan Abramov <dan.abramov@me.com> (http://github.com/gaearon)",
+  "author": "Dima Gimburg <dima.gimburg@gmail.com> (http://github.com/dimagimburg)",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gaearon/react-hot-boilerplate/issues"
-  },
-  "homepage": "https://github.com/gaearon/react-hot-boilerplate",
   "devDependencies": {
     "babel-core": "^6.0.20",
     "babel-eslint": "^4.1.3",
