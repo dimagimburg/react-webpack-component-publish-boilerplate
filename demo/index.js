@@ -24,22 +24,3 @@ if (module.hot) {
         );
     });
 }
-
-
-
-/*
-import React, { Component } from 'react';
-import ReactDOM from 'react-dom';
-//
-console.log('this is the demo inkllkdex ljkasdal asda sss #$%^#$%$#');
-//
-class App extends Component {
-    render() {
-        return (
-            <h1>Hello, world... 22222</h1>
-        );
-    }
-}
-//
-//ReactDOM.render(<App />, document.getElementById('root'));
-*/
